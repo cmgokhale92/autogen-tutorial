@@ -5,3 +5,6 @@ venv/
 uv.lock
 .python-version
 pyproject.toml
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
+appointments.db
